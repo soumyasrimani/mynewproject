@@ -4,3 +4,5 @@ writeline 3
 writeline 4
 writeline 5
 writeline 6
+write line 99
+write line 100
