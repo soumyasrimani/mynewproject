@@ -2,3 +2,5 @@ writeline 1
 writeline 2
 writeline 3
 writeline 4
+writeline 5
+writeline 6
