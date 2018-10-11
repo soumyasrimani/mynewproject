@@ -6,3 +6,6 @@ writeline 5
 writeline 6
 writelien 7
 writeline 8
+writeline 98
+write line 99
+write line 100
